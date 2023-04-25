@@ -1,2 +1,1 @@
-# repo1
-IBM Certification - Python Project for Data Science
+# IBM Certification - Python Project for Data Science
